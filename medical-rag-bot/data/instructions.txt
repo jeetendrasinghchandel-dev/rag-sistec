@@ -1,0 +1,1 @@
+Please place your verified medical PDF documents in this directory.
